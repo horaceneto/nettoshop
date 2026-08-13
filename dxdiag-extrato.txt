@@ -1,0 +1,27 @@
+Extrato do relatorio DxDiag - Samsung Galaxy Book3 Ultra
+Gerado em 13/08/2026. Identificadores da maquina omitidos.
+O relatorio completo pode ser conferido presencialmente no ato da entrega.
+
+--- SISTEMA ---
+         Operating System: Windows 11 Home Single Language 64-bit (10.0, Build 26200) (26100.ge_release.240331-1435)
+      System Manufacturer: SAMSUNG ELECTRONICS CO., LTD.
+             System Model: 960XFH
+                     BIOS: P07ALQ.190.240418.PS (type: UEFI)
+                Processor: 13th Gen Intel(R) Core(TM) i9-13900H (20 CPUs), ~2.6GHz
+                   Memory: 32768MB RAM
+      Available OS Memory: 32328MB RAM
+
+--- GPU DEDICADA ---
+           Card name: NVIDIA GeForce RTX 4070 Laptop GPU
+        Manufacturer: NVIDIA
+           Chip type: NVIDIA GeForce RTX 4070 Laptop GPU
+      Display Memory: 24112 MB
+    Dedicated Memory: 7949 MB
+
+--- TELA ---
+        Monitor Name: Samsung OLED Display
+       Monitor Model: unknown
+          Monitor Id: SDC4185
+         Native Mode: 2880 x 1800(p) (120.001Hz)
+         Output Type: Internal
+Monitor Capabilities: HDR Supported (BT2020RGB Eotf2084Supported )
